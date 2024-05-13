@@ -1,0 +1,21 @@
+.heading {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 18px;
+text-align:center ;
+}
+.photo {
+    width: 30%;
+    display: block;
+    margin: auto;
+    opacity:100% ;
+}
+.lists {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 10px;
+    text-align: center;
+}
+.foot {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 10px;
+    text-align: center;
+}   
